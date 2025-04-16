@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Acknowledgments
+
+I’d like to extend my gratitude to the following resources and communities for their invaluable support and guidance throughout this project:
+
+- [React Documentation](https://reactjs.org/) – For helping me understand the fundamentals and best practices.
+- [Create React App](https://create-react-app.dev/) – For providing a powerful boilerplate to kickstart the frontend.
+- [Stack Overflow](https://stackoverflow.com/) – For community help with specific errors and implementation tips.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) and [freeCodeCamp](https://www.freecodecamp.org/) – For clear examples and tutorials on React and CRUD concepts.
+- YouTube tutorials by developers like **Traversy Media**, **The Net Ninja**, and **Academind** – For in-depth project walkthroughs.
+- My peers and mentors – For reviewing code and offering valuable feedback.
+
+This CRUD MVC frontend wouldn’t have been possible without the help of these fantastic communities and resources.
